@@ -63,13 +63,13 @@
 			children = (
 				B303ED482BBC6A5700314B96 /* EmojiArtApp.swift */,
 				B303ED4A2BBC6A5700314B96 /* EmojiArtDocumentView.swift */,
-				B303ED4C2BBC6A5B00314B96 /* Assets.xcassets */,
-				B303ED4E2BBC6A5B00314B96 /* Preview Content */,
 				B303ED562BBC6EDC00314B96 /* EmojiArtModel.swift */,
 				B3B90ADB2BBDCC6C00047FC5 /* EmojiArtDocument.swift */,
 				B303ED582BBC71E300314B96 /* EmojiArtModel.Background.swift */,
 				B3B90ADE2BBDD2B900047FC5 /* UtilityExtensions.swift */,
 				B3B90ADD2BBDD2B900047FC5 /* UtilityViews.swift */,
+				B303ED4C2BBC6A5B00314B96 /* Assets.xcassets */,
+				B303ED4E2BBC6A5B00314B96 /* Preview Content */,
 			);
 			path = EmojiArt;
 			sourceTree = "<group>";
