@@ -6,10 +6,12 @@
 //
 
 import Foundation
+import UIKit
 
 struct EmojiArtModel {
-    var background = Background.blanc
+    var background = Background.blank
     var emojis = [Emoji]()
+    
     
     struct Emoji : Identifiable, Hashable {
         let text: String
